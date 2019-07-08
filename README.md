@@ -7,7 +7,7 @@ To get message on your telegram you will have to create a bot first.
 2. Send another “/newbot” message, create your new bot.
 3. Here copy your HTTP API, this will be used in your script.
 4. On Telegram, search your bot (by the username you just created), press the “Start” button or send a “/start” message.
-5. Open a new tab with your browser, enter https://api.telegram.org/bot<yourtoken>/getUpdates , replace <yourtoken> with your API token, press enter and you should see something like this:
+5. Open a new tab with your browser, enter ```https://api.telegram.org/bot<yourtoken>/getUpdates``` , replace <yourtoken> with your API token, press enter and you should see something like this:
   
 ```
         {"ok":true,"result":[{"update_id":77xxxxxxx,
