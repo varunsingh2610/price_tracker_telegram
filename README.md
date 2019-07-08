@@ -5,7 +5,7 @@ A small script to track price of a product in Amazon.in and send the price in yo
 To get message on your telegram you will have to create a bot first.
 1. On Telegram, search @ BotFather, click on start or send him a “/start” message
 2. Send another “/newbot” message, create your new bot.
-3. Here copy your HTTP API, this will be used in your script.
+3. Here copy your HTTP API, this will be used in your script. Like this: ```8XXXXXXXX:AXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX4-wU``` 
 4. On Telegram, search your bot (by the username you just created), press the “Start” button or send a “/start” message.
 5. Open a new tab with your browser, enter ```https://api.telegram.org/bot<yourtoken>/getUpdates``` , replace <yourtoken> with your API token, press enter and you should see something like this:
   
