@@ -11,7 +11,7 @@ To get message on your telegram you will have to create a bot first.
   
 ```
         {"ok":true,"result":[{"update_id":77xxxxxxx,
-      "message":{"message_id":550,"from":{"id":34xxxxxxx,"is_bot":false,"first_name":"Man Hay","last_name":"Hong","username":"manhay212","language_code":"en-HK"}
+      "message":{"message_id":550,"from":{"id":34xxxxxxx,"is_bot":false,"first_name":"ManHay","last_name":"Hong","username":"manhay212","language_code":"en-HK"}
 
 ```
 ###### Note: To get something like this you will have to add your bot to any of the group of yours.
